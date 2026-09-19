@@ -1,0 +1,8 @@
+{
+  "name": "Prime Concept Models | Template de Agência de Modelos",
+  "description": "Template exclusivo e sofisticado para agências de modelos, casting de talentos, fotografia e produções de moda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
